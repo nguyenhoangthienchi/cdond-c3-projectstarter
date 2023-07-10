@@ -1,4 +1,0 @@
-URL01 (Git repo): `https://github.com/lqtoan20/auto-deploy-application-with-ci-cd`  
-URL02 (S3 bucket): `http://udapeople-29db5a1.s3-website-us-east-1.amazonaws.com/#/employees`  
-URL03 (CloudFront Frontend URL - blue): `http://d2h2fysy7sagte.cloudfront.net/`  
-URL04 (verify back-end status): http://ec2-54-173-185-97.compute-1.amazonaws.com:3030/api/status
